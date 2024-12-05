@@ -13,3 +13,7 @@ El yoga combina posturas, respiración y meditación para mejorar la flexibilida
 2. Realiza posturas de yoga (asanas) como la postura del perro boca abajo o el árbol.
 3. Mantén cada postura durante al menos 30 segundos.
 4. Respira profundamente y concéntrate en el momento presente.
+
+## Consejos
+- No te apresures en las posturas, ve progresando poco a poco.
+- Escucha a tu cuerpo y evita forzar las posturas.
