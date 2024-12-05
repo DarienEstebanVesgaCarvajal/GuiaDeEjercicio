@@ -12,3 +12,7 @@ El entrenamiento funcional se enfoca en movimientos que mejoran las actividades 
 1. Realiza un calentamiento dinámico antes de empezar.
 2. Usa herramientas como pelotas de estabilidad, pesas ligeras o bandas elásticas.
 3. Enfócate en ejercicios como sentadillas, planchas o pasos laterales.
+
+## Consejos
+- Mantén una postura correcta durante los movimientos.
+- Ajusta la intensidad según tu nivel de condición física.
