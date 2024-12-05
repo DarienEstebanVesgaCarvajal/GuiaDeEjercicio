@@ -12,3 +12,7 @@ El pilates se enfoca en el control de la respiración y el movimiento para forta
 1. Realiza respiraciones profundas y controla el movimiento.
 2. Haz ejercicios como el "Cien" o el "Rolling Like a Ball".
 3. Mantén una postura adecuada y no dejes que la espalda se arquee excesivamente.
+
+## Consejos
+- Realiza los movimientos de forma controlada y lenta.
+- Consulta a un instructor para evitar lesiones y obtener mejor técnica.
