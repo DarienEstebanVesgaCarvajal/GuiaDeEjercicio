@@ -13,3 +13,7 @@ Los ejercicios de fuerza son actividades diseñadas para mejorar la resistencia 
 2. Elige pesas adecuadas para tu nivel de experiencia.
 3. Realiza ejercicios como sentadillas, levantamiento de pesas o flexiones.
 4. Descansa entre series y mantén una postura adecuada.
+
+## Consejos
+- Evita sobrecargarte con más peso del que puedes manejar.
+- Consulta a un entrenador si eres principiante.
