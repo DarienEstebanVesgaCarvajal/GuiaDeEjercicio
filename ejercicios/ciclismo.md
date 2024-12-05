@@ -12,3 +12,7 @@ El ciclismo es un ejercicio cardiovascular que fortalece las piernas y mejora la
 1. Ajusta la bicicleta a tu altura y verifica los frenos.
 2. Realiza paseos de entre 30 minutos y 1 hora, aumentando la duración gradualmente.
 3. Mantén una postura erguida y pedalea con un ritmo constante.
+
+## Consejos
+- Usa ropa cómoda y casco de seguridad.
+- Asegúrate de hidratarte adecuadamente durante el ejercicio.
